@@ -8,9 +8,8 @@ school that i can code and i still learn everyday more and more. The reason im h
 and working on projects not only alone. 
 
 # ▂▃▅▇█▓▒░ What i do ░▒▓█▇▅▃▂
-I do code Desktop applications with Java, mostly just my homework but with some extra features just to increace my skills more and more.
+I do code Desktop applications with Java.
 Im open to every kind of new stuff to get better at game development and coding itself.
-At the moment i write this, i do learn android and how to create games for android, my main focus will still be desktop applications!
 
 # ▂▃▅▇█▓▒░ Contact ░▒▓█▇▅▃▂
 - Discord: Mr.Mystery 1.0#8471
