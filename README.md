@@ -1,15 +1,11 @@
 # ▂▃▅▇█▓▒░ Who i am ░▒▓█▇▅▃▂
-My real name is Kirils Turkins, im a 16 years old student in germany. My first experience with coding is when i was around 11 years old by creating viruses with Batch and 
-Visual Basic Script to troll friends and knowing how hacking works to protect my self from it, because i already got hacked a lot of times. Later on i started to create
-Mods for Minecraft on the Playstation 3 which were one of the first mods during the time, because it was pretty hard and there were no mod support for it, so you needed
-to jailbreak or download the mods as maps. At the same time i learned to create 2D games with Unity and C#. With 13 i stopped and had a big break for around 2 years
-and then i joined a new school and i was forced to learn java, due my experience with coding itself i learned java in couple days, which was enough to proof to my 
-school that i can code and i still learn everyday more and more. The reason im here on GitHub is to get a project portfoil for later jobs, share my code to others 
-and working on projects not only alone. 
+My name is Kirils Turkins, and I am a 16-year-old student residing in Germany. My journey in coding began at the age of 11, when I experimented with creating viruses using Batch and Visual Basic Script for amusement purposes. I also learned about hacking to protect myself after having been hacked several times.
+Subsequently, I ventured into creating mods for Minecraft on the PlayStation 3, which was quite challenging at the time since there was no mod support, and one had to either jailbreak or download the mods as maps. Simultaneously, I honed my skills in creating 2D games with Unity and C#.
+After a break of about two years, I resumed coding and began learning Java when I joined a new school, which I grasped in a few days due to my prior experience with coding. I continue to enhance my skills every day.
+I am here on GitHub to develop a project portfolio for future employment, share my code with others, and collaborate with other programmers.
 
 # ▂▃▅▇█▓▒░ What i do ░▒▓█▇▅▃▂
-I do code Desktop applications with Java.
-Im open to every kind of new stuff to get better at game development and coding itself.
+Currently, I specialize in coding desktop applications using Java. However, I am open to learning new things and expanding my knowledge to in game development, deep ai learning and coding in general.
 
 # ▂▃▅▇█▓▒░ Contact ░▒▓█▇▅▃▂
 - Discord: Mr.Mystery 1.0#8471
