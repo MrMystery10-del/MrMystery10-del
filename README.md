@@ -14,4 +14,4 @@ Im open to every kind of new stuff to get better at game development and coding 
 # ▂▃▅▇█▓▒░ Contact ░▒▓█▇▅▃▂
 - Discord: Mr.Mystery 1.0#8471
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MrMystery10-del?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MrMystery10-del?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMystery10-del"/>
