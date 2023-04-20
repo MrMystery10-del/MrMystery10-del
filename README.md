@@ -5,7 +5,7 @@ After a break of about two years, I resumed coding and began learning Java when 
 I am here on GitHub to develop a project portfolio for future employment, share my code with others, and collaborate with other programmers.
 
 # ▂▃▅▇█▓▒░ What i do ░▒▓█▇▅▃▂
-Currently, I specialize in coding desktop applications using Java. However, I am open to learning new things and expanding my knowledge to in game development, deep ai learning and coding in general.
+Currently, I specialize in coding desktop applications using Java. However, I am open to learning new things and expanding my knowledge. Expanding my Rust skills for the Slirik interpreter, which will be released soon in the future.
 
 # ▂▃▅▇█▓▒░ Contact ░▒▓█▇▅▃▂
 - Discord: Mr.Mystery 1.0#8471
