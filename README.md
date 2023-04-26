@@ -10,4 +10,4 @@ Currently, I specialize in coding desktop applications using Java. However, I am
 # ▂▃▅▇█▓▒░ Contact ░▒▓█▇▅▃▂
 - Discord: Mr.Mystery 1.0#8471
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MrMystery10-del?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMystery10-del"/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MrMystery10-del?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMystery10-del&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
