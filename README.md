@@ -5,7 +5,6 @@
     </a>
 </div>
 
-
 <div style="display: flex; flex-direction: column; align-items: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img style="width: 100%;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMystery10-del&layout=compact&theme=dark&langs_count=10" />
