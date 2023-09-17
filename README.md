@@ -13,7 +13,7 @@
         <img style="width: 100%;" align="center" src="https://streak-stats.demolab.com?user=MrMystery10-del&theme=merko&border_radius=8&fire=727020&ring=B4EBA8" />
     </a>
 </div>
-<h1>Technologys</h1>
+<h1>Technologies</h1>
     
 <h2>Java</h2>
 <h6>Java 17, Spring Boot, SLF4j, Log4j, LWJGL, JUnit, JavaFX, Swing</h6>
