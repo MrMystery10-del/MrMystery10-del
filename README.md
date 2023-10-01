@@ -13,4 +13,4 @@
         <img style="width: 100%;" align="center" src="https://streak-stats.demolab.com?user=MrMystery10-del&theme=merko&border_radius=8&fire=727020&ring=B4EBA8" />
     </a>
 </div>
-![technologies](https://github.com/MrMystery10-del/MrMystery10-del/assets/69641472/cfa5bc31-c9aa-4b9a-a9ed-840ea23f62e4)
+<img style="width: 100%;" align="center" src="https://github.com/MrMystery10-del/MrMystery10-del/assets/69641472/cfa5bc31-c9aa-4b9a-a9ed-840ea23f62e4" />
